@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main() {
+#include<conio.h>
+int main()
+{
     int dividend, divisor, quotient, remainder;
     printf("Enter dividend: ");
     scanf("%d", &dividend);
