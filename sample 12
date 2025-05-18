@@ -14,7 +14,7 @@ int main()
     // Computes remainder
     remainder = dividend % divisor;
 
-    printf("Quotient = %d\n", quotient);
+    printf("Quotient = %d", quotient);
     printf("Remainder = %d", remainder);
     return 0;
 }
